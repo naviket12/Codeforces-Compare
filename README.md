@@ -15,7 +15,6 @@ To see only recent data, click on extension and enter the number of months in th
 
 ### Screenshots
 ![Screenshot 2023-08-04 172841](https://github.com/naviket12/Codeforces-Compare/assets/116837823/96babbac-38e7-4789-a8cf-4effe3c7e2bc)
-![image](https://user-images.githubusercontent.com/58853798/193256771-03cabf41-8db3-4b57-976c-9e6beb1bf5ff.png)
-![image](https://user-images.githubusercontent.com/58853798/193256848-66d9abc1-8f75-4ca0-b95c-df35a33dc6f5.png)
-![image](https://user-images.githubusercontent.com/58853798/193256935-17dd28f6-9497-48f2-b660-57b36828048f.png)
-![image](https://user-images.githubusercontent.com/58853798/193257049-577d53b4-a370-4848-9fec-09e7c7bb52ac.png)
+![Screenshot 2023-08-04 172853](https://github.com/naviket12/Codeforces-Compare/assets/116837823/878538eb-89be-4315-9163-064e9ee10a1d)
+![Screenshot 2023-08-04 172920](https://github.com/naviket12/Codeforces-Compare/assets/116837823/ff2cfae5-e42d-411e-9a31-b876927c8f2e)
+
